@@ -12,7 +12,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 ## Experience
-- 울산 애니원고등학교, 2015.03 ~ 2018.1
+- 울산 애니원고등학교 13기 게임개발과, 2015.03 ~ 2018.1
 - INU (Inje-university, 인제대학교 컴퓨터공학부), 2018.03 ~ 2024.02
 - Research Intern, Cyberbrain Lab at ETRI (한국전자통신연구원), 2023.01 ~ 2023.02
 - Backend Developer, Watcha (왓챠), 2024.06 ~
