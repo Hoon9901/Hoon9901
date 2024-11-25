@@ -15,4 +15,4 @@
 - Ulsan Anyone High School 13th Game Development Department, 2015.03 ~ 2018.1
 - Inje University Department of Computer Engineering, 2018.03 ~ 2024.02
 - Research Intern, Cyberbrain Lab at ETRI, 2023.01 ~ 2023.02
-- Server developer, Watcha backend team, 2024.06 ~
+- Server Developer, Watcha, 2024.06 ~
